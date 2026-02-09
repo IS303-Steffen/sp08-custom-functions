@@ -18,9 +18,9 @@ Convert numeric grades to letters for a course gradebook.
 1. Write convert_to_letter(grade) returning the correct letter using these
    rules:
        90+ → A
-       80–89 → B
-       70–79 → C
-       60–69 → D
+       80-89 → B
+       70-79 → C
+       60-69 → D
        below 60 → F
 2. Call the function with at least three different numeric grades and print
    the results.
